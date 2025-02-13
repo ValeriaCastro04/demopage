@@ -6,7 +6,6 @@ abstract class Controller
 {
     // eso puse en postman para visualizar las cosas
     //demopage.test/api/v1/email/preview
-    // 
     //y estos datos:
     //{
     //"customer": "John Doe",
