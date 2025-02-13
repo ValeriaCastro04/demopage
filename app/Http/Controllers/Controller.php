@@ -4,8 +4,9 @@ namespace App\Http\Controllers;
 
 abstract class Controller
 {
-    // demopage.test/api/v1/email/preview
     // eso puse en postman para visualizar las cosas
+    //demopage.test/api/v1/email/preview
+    // 
     //y estos datos:
     //{
     //"customer": "John Doe",
